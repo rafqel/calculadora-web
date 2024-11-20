@@ -2,7 +2,7 @@
 
 ## About
 
-### The project consists of a calculator that performs the functions of a basic calculator. HTML, CSS, and JavaScript were used to develop the project.
+### This project consists of a calculator that performs the functions of a basic calculator. HTML, CSS, and JavaScript were used to develop the project.
 #
 ## Final Result
 
